@@ -2,7 +2,7 @@
 
 ##1. Almacenamienti en una base de datos SQLite
 
-![A](https://github.com/JoelMendoza1/EjerciciosTopicosEspeciales/blob/main/Capturas/Ejercicio1-ConsultarDatos1.PNG)
+![A](https://github.com/JoelMendoza1/EjerciciosTopicosEspeciales/blob/main/Capturas/Ejercicio1-ConsultarDatos1.png)
 
 ##2. Almacenamiento de datos en un archivo de texto en la memoria interna
 
