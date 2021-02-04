@@ -8,9 +8,9 @@
 
 
 
-##INTEGRATES#
-##Gabriela Garcia
-##Danny Guñuna
-##Joel Mendoza
-##Pablo Trujillo
+##INTEGRATES:
+Gabriela Garcia,
+Danny Guñuna,
+Joel Mendoza,
+Pablo Trujillo,
  
