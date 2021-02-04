@@ -1,4 +1,4 @@
-# EJERCICIOS ADROIDSTUDIO
+# Ejercicios Android (2do bimestre)
 
 1. Almacenamiento en una base de datos SQLite
 
